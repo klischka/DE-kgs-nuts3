@@ -1,0 +1,2005 @@
+{"data":[{
+  "Region" : "Ahrweiler",
+  "KGS" : "07131",
+  "NUTS-3" : "DEB12"
+},
+{
+  "Region" : "Aichach-Friedberg",
+  "KGS" : "09771",
+  "NUTS-3" : "DE275"
+},
+{
+  "Region" : "Alb-Donau-Kreis",
+  "KGS" : "08425",
+  "NUTS-3" : "DE145"
+},
+{
+  "Region" : "Altenburger Land",
+  "KGS" : "16077",
+  "NUTS-3" : "DEG0M"
+},
+{
+  "Region" : "Altenkirchen (Westerwald)",
+  "KGS" : "07132",
+  "NUTS-3" : "DEB13"
+},
+{
+  "Region" : "Altmarkkreis Salzwedel",
+  "KGS" : "15081",
+  "NUTS-3" : "DEE04"
+},
+{
+  "Region" : "Altötting",
+  "KGS" : "09171",
+  "NUTS-3" : "DE214"
+},
+{
+  "Region" : "Alzey-Worms",
+  "KGS" : "07331",
+  "NUTS-3" : "DEB3B"
+},
+{
+  "Region" : "Amberg-Sulzbach",
+  "KGS" : "09361",
+  "NUTS-3" : "DE234"
+},
+{
+  "Region" : "Amberg, Kreisfreie Stadt",
+  "KGS" : "09371",
+  "NUTS-3" : "DE231"
+},
+{
+  "Region" : "Ammerland",
+  "KGS" : "03451",
+  "NUTS-3" : "DE946"
+},
+{
+  "Region" : "Anhalt-Bitterfeld",
+  "KGS" : "15082",
+  "NUTS-3" : "DEE05"
+},
+{
+  "Region" : "Ansbach, Kreisfreie Stadt",
+  "KGS" : "09561",
+  "NUTS-3" : "DE251"
+},
+{
+  "Region" : "Ansbach, Landkreis",
+  "KGS" : "09571",
+  "NUTS-3" : "DE256"
+},
+{
+  "Region" : "Aschaffenburg, Kreisfreie Stadt",
+  "KGS" : "09661",
+  "NUTS-3" : "DE261"
+},
+{
+  "Region" : "Aschaffenburg, Landkreis",
+  "KGS" : "09671",
+  "NUTS-3" : "DE264"
+},
+{
+  "Region" : "Augsburg, Kreisfreie Stadt",
+  "KGS" : "09761",
+  "NUTS-3" : "DE271"
+},
+{
+  "Region" : "Augsburg, Landkreis",
+  "KGS" : "09772",
+  "NUTS-3" : "DE276"
+},
+{
+  "Region" : "Aurich",
+  "KGS" : "03452",
+  "NUTS-3" : "DE947"
+},
+{
+  "Region" : "Bad Dürkheim",
+  "KGS" : "07332",
+  "NUTS-3" : "DEB3C"
+},
+{
+  "Region" : "Bad Kissingen",
+  "KGS" : "09672",
+  "NUTS-3" : "DE265"
+},
+{
+  "Region" : "Bad Kreuznach",
+  "KGS" : "07133",
+  "NUTS-3" : "DEB14"
+},
+{
+  "Region" : "Bad Tölz-Wolfratshausen",
+  "KGS" : "09173",
+  "NUTS-3" : "DE216"
+},
+{
+  "Region" : "Baden-Baden, Stadtkreis",
+  "KGS" : "08211",
+  "NUTS-3" : "DE121"
+},
+{
+  "Region" : "Bamberg, Kreisfreie Stadt",
+  "KGS" : "09461",
+  "NUTS-3" : "DE241"
+},
+{
+  "Region" : "Bamberg, Landkreis",
+  "KGS" : "09471",
+  "NUTS-3" : "DE245"
+},
+{
+  "Region" : "Barnim",
+  "KGS" : "12060",
+  "NUTS-3" : "DE405"
+},
+{
+  "Region" : "Bautzen",
+  "KGS" : "14625",
+  "NUTS-3" : "DED2C"
+},
+{
+  "Region" : "Bayreuth, Kreisfreie Stadt",
+  "KGS" : "09462",
+  "NUTS-3" : "DE242"
+},
+{
+  "Region" : "Bayreuth, Landkreis",
+  "KGS" : "09472",
+  "NUTS-3" : "DE246"
+},
+{
+  "Region" : "Berchtesgadener Land",
+  "KGS" : "09172",
+  "NUTS-3" : "DE215"
+},
+{
+  "Region" : "Bergstraße",
+  "KGS" : "06431",
+  "NUTS-3" : "DE715"
+},
+{
+  "Region" : "Berlin",
+  "KGS" : "11000",
+  "NUTS-3" : "DE300"
+},
+{
+  "Region" : "Bernkastel-Wittlich",
+  "KGS" : "07231",
+  "NUTS-3" : "DEB22"
+},
+{
+  "Region" : "Biberach",
+  "KGS" : "08426",
+  "NUTS-3" : "DE146"
+},
+{
+  "Region" : "Bielefeld, Kreisfreie Stadt",
+  "KGS" : "05711",
+  "NUTS-3" : "DEA41"
+},
+{
+  "Region" : "Birkenfeld",
+  "KGS" : "07134",
+  "NUTS-3" : "DEB15"
+},
+{
+  "Region" : "Böblingen",
+  "KGS" : "08115",
+  "NUTS-3" : "DE112"
+},
+{
+  "Region" : "Bochum, Kreisfreie Stadt",
+  "KGS" : "05911",
+  "NUTS-3" : "DEA51"
+},
+{
+  "Region" : "Bodenseekreis",
+  "KGS" : "08435",
+  "NUTS-3" : "DE147"
+},
+{
+  "Region" : "Bonn, Kreisfreie Stadt",
+  "KGS" : "05314",
+  "NUTS-3" : "DEA22"
+},
+{
+  "Region" : "Börde",
+  "KGS" : "15083",
+  "NUTS-3" : "DEE07"
+},
+{
+  "Region" : "Borken",
+  "KGS" : "05554",
+  "NUTS-3" : "DEA34"
+},
+{
+  "Region" : "Bottrop, Kreisfreie Stadt",
+  "KGS" : "05512",
+  "NUTS-3" : "DEA31"
+},
+{
+  "Region" : "Brandenburg an der Havel, Kreisfreie Stadt",
+  "KGS" : "12051",
+  "NUTS-3" : "DE401"
+},
+{
+  "Region" : "Braunschweig, Kreisfreie Stadt",
+  "KGS" : "03101",
+  "NUTS-3" : "DE911"
+},
+{
+  "Region" : "Breisgau-Hochschwarzwald",
+  "KGS" : "08315",
+  "NUTS-3" : "DE132"
+},
+{
+  "Region" : "Bremen, Kreisfreie Stadt",
+  "KGS" : "04011",
+  "NUTS-3" : "DE501"
+},
+{
+  "Region" : "Bremerhaven, Kreisfreie Stadt",
+  "KGS" : "04012",
+  "NUTS-3" : "DE502"
+},
+{
+  "Region" : "Burgenlandkreis",
+  "KGS" : "15084",
+  "NUTS-3" : "DEE08"
+},
+{
+  "Region" : "Calw",
+  "KGS" : "08235",
+  "NUTS-3" : "DE12A"
+},
+{
+  "Region" : "Celle",
+  "KGS" : "03351",
+  "NUTS-3" : "DE931"
+},
+{
+  "Region" : "Cham",
+  "KGS" : "09372",
+  "NUTS-3" : "DE235"
+},
+{
+  "Region" : "Chemnitz, Kreisfreie Stadt",
+  "KGS" : "14511",
+  "NUTS-3" : "DED41"
+},
+{
+  "Region" : "Cloppenburg",
+  "KGS" : "03453",
+  "NUTS-3" : "DE948"
+},
+{
+  "Region" : "Coburg, Kreisfreie Stadt",
+  "KGS" : "09463",
+  "NUTS-3" : "DE243"
+},
+{
+  "Region" : "Coburg, Landkreis",
+  "KGS" : "09473",
+  "NUTS-3" : "DE247"
+},
+{
+  "Region" : "Cochem-Zell",
+  "KGS" : "07135",
+  "NUTS-3" : "DEB1C"
+},
+{
+  "Region" : "Coesfeld",
+  "KGS" : "05558",
+  "NUTS-3" : "DEA35"
+},
+{
+  "Region" : "Cottbus, Kreisfreie Stadt",
+  "KGS" : "12052",
+  "NUTS-3" : "DE402"
+},
+{
+  "Region" : "Cuxhaven",
+  "KGS" : "03352",
+  "NUTS-3" : "DE932"
+},
+{
+  "Region" : "Dachau",
+  "KGS" : "09174",
+  "NUTS-3" : "DE217"
+},
+{
+  "Region" : "Dahme-Spreewald",
+  "KGS" : "12061",
+  "NUTS-3" : "DE406"
+},
+{
+  "Region" : "Darmstadt-Dieburg",
+  "KGS" : "06411",
+  "NUTS-3" : "DE716"
+},
+{
+  "Region" : "Darmstadt, Kreisfreie Stadt",
+  "KGS" : "06432",
+  "NUTS-3" : "DE711"
+},
+{
+  "Region" : "Deggendorf",
+  "KGS" : "09271",
+  "NUTS-3" : "DE224"
+},
+{
+  "Region" : "Delmenhorst, Kreisfreie Stadt",
+  "KGS" : "03401",
+  "NUTS-3" : "DE941"
+},
+{
+  "Region" : "Dessau-Roßlau, Kreisfreie Stadt",
+  "KGS" : "15001",
+  "NUTS-3" : "DEE01"
+},
+{
+  "Region" : "Diepholz",
+  "KGS" : "03251",
+  "NUTS-3" : "DE922"
+},
+{
+  "Region" : "Dillingen a.d. Donau",
+  "KGS" : "09773",
+  "NUTS-3" : "DE277"
+},
+{
+  "Region" : "Dingolfing-Landau",
+  "KGS" : "09279",
+  "NUTS-3" : "DE22C"
+},
+{
+  "Region" : "Dithmarschen",
+  "KGS" : "01051",
+  "NUTS-3" : "DEF05"
+},
+{
+  "Region" : "Donau-Ries",
+  "KGS" : "09779",
+  "NUTS-3" : "DE27D"
+},
+{
+  "Region" : "Donnersbergkreis",
+  "KGS" : "07333",
+  "NUTS-3" : "DEB3D"
+},
+{
+  "Region" : "Dortmund, Kreisfreie Stadt",
+  "KGS" : "05913",
+  "NUTS-3" : "DEA52"
+},
+{
+  "Region" : "Dresden, Kreisfreie Stadt",
+  "KGS" : "14612",
+  "NUTS-3" : "DED21"
+},
+{
+  "Region" : "Duisburg, Kreisfreie Stadt",
+  "KGS" : "05112",
+  "NUTS-3" : "DEA12"
+},
+{
+  "Region" : "Düren",
+  "KGS" : "05358",
+  "NUTS-3" : "DEA26"
+},
+{
+  "Region" : "Düsseldorf, Kreisfreie Stadt",
+  "KGS" : "05111",
+  "NUTS-3" : "DEA11"
+},
+{
+  "Region" : "Ebersberg",
+  "KGS" : "09175",
+  "NUTS-3" : "DE218"
+},
+{
+  "Region" : "Eichsfeld",
+  "KGS" : "16061",
+  "NUTS-3" : "DEG06"
+},
+{
+  "Region" : "Eichstätt",
+  "KGS" : "09176",
+  "NUTS-3" : "DE219"
+},
+{
+  "Region" : "Eifelkreis Bitburg-Prüm",
+  "KGS" : "07232",
+  "NUTS-3" : "DEB23"
+},
+{
+  "Region" : "Eisenach, Kreisfreie Stadt",
+  "KGS" : null,
+  "NUTS-3" : "DEG0N"
+},
+{
+  "Region" : "Elbe-Elster",
+  "KGS" : "12062",
+  "NUTS-3" : "DE407"
+},
+{
+  "Region" : "Emden, Kreisfreie Stadt",
+  "KGS" : "03402",
+  "NUTS-3" : "DE942"
+},
+{
+  "Region" : "Emmendingen",
+  "KGS" : "08316",
+  "NUTS-3" : "DE133"
+},
+{
+  "Region" : "Emsland",
+  "KGS" : "03454",
+  "NUTS-3" : "DE949"
+},
+{
+  "Region" : "Ennepe-Ruhr-Kreis",
+  "KGS" : "05954",
+  "NUTS-3" : "DEA56"
+},
+{
+  "Region" : "Enzkreis",
+  "KGS" : "08236",
+  "NUTS-3" : "DE12B"
+},
+{
+  "Region" : "Erding",
+  "KGS" : "09177",
+  "NUTS-3" : "DE21A"
+},
+{
+  "Region" : "Erfurt, Kreisfreie Stadt",
+  "KGS" : "16051",
+  "NUTS-3" : "DEG01"
+},
+{
+  "Region" : "Erlangen-Höchstadt",
+  "KGS" : "09562",
+  "NUTS-3" : "DE257"
+},
+{
+  "Region" : "Erlangen, Kreisfreie Stadt",
+  "KGS" : "09572",
+  "NUTS-3" : "DE252"
+},
+{
+  "Region" : "Erzgebirgskreis",
+  "KGS" : "14521",
+  "NUTS-3" : "DED42"
+},
+{
+  "Region" : "Essen, Kreisfreie Stadt",
+  "KGS" : "05113",
+  "NUTS-3" : "DEA13"
+},
+{
+  "Region" : "Esslingen",
+  "KGS" : "08116",
+  "NUTS-3" : "DE113"
+},
+{
+  "Region" : "Euskirchen",
+  "KGS" : "05366",
+  "NUTS-3" : "DEA28"
+},
+{
+  "Region" : "Flensburg, Kreisfreie Stadt",
+  "KGS" : "01001",
+  "NUTS-3" : "DEF01"
+},
+{
+  "Region" : "Forchheim",
+  "KGS" : "09474",
+  "NUTS-3" : "DE248"
+},
+{
+  "Region" : "Frankenthal (Pfalz), Kreisfreie Stadt",
+  "KGS" : "07311",
+  "NUTS-3" : "DEB31"
+},
+{
+  "Region" : "Frankfurt (Oder), Kreisfreie Stadt",
+  "KGS" : "12053",
+  "NUTS-3" : "DE403"
+},
+{
+  "Region" : "Frankfurt am Main, Kreisfreie Stadt",
+  "KGS" : "06412",
+  "NUTS-3" : "DE712"
+},
+{
+  "Region" : "Freiburg im Breisgau, Stadtkreis",
+  "KGS" : "08311",
+  "NUTS-3" : "DE131"
+},
+{
+  "Region" : "Freising",
+  "KGS" : "09178",
+  "NUTS-3" : "DE21B"
+},
+{
+  "Region" : "Freudenstadt",
+  "KGS" : "08237",
+  "NUTS-3" : "DE12C"
+},
+{
+  "Region" : "Freyung-Grafenau",
+  "KGS" : "09272",
+  "NUTS-3" : "DE225"
+},
+{
+  "Region" : "Friesland (DE)",
+  "KGS" : "03455",
+  "NUTS-3" : "DE94A"
+},
+{
+  "Region" : "Fulda",
+  "KGS" : "06631",
+  "NUTS-3" : "DE732"
+},
+{
+  "Region" : "Fürstenfeldbruck",
+  "KGS" : "09179",
+  "NUTS-3" : "DE21C"
+},
+{
+  "Region" : "Fürth, Kreisfreie Stadt",
+  "KGS" : "09563",
+  "NUTS-3" : "DE253"
+},
+{
+  "Region" : "Fürth, Landkreis",
+  "KGS" : "09573",
+  "NUTS-3" : "DE258"
+},
+{
+  "Region" : "Garmisch-Partenkirchen",
+  "KGS" : "09180",
+  "NUTS-3" : "DE21D"
+},
+{
+  "Region" : "Gelsenkirchen, Kreisfreie Stadt",
+  "KGS" : "05513",
+  "NUTS-3" : "DEA32"
+},
+{
+  "Region" : "Gera, Kreisfreie Stadt",
+  "KGS" : "16052",
+  "NUTS-3" : "DEG02"
+},
+{
+  "Region" : "Germersheim",
+  "KGS" : "07334",
+  "NUTS-3" : "DEB3E"
+},
+{
+  "Region" : "Gießen, Landkreis",
+  "KGS" : "06531",
+  "NUTS-3" : "DE721"
+},
+{
+  "Region" : "Gifhorn",
+  "KGS" : "03151",
+  "NUTS-3" : "DE914"
+},
+{
+  "Region" : "Göppingen",
+  "KGS" : "08117",
+  "NUTS-3" : "DE114"
+},
+{
+  "Region" : "Görlitz",
+  "KGS" : "14626",
+  "NUTS-3" : "DED2D"
+},
+{
+  "Region" : "Goslar",
+  "KGS" : "03153",
+  "NUTS-3" : "DE916"
+},
+{
+  "Region" : "Gotha",
+  "KGS" : "16067",
+  "NUTS-3" : "DEG0C"
+},
+{
+  "Region" : "Göttingen",
+  "KGS" : "03159",
+  "NUTS-3" : "DE91C"
+},
+{
+  "Region" : "Grafschaft Bentheim",
+  "KGS" : "03456",
+  "NUTS-3" : "DE94B"
+},
+{
+  "Region" : "Greiz",
+  "KGS" : "16076",
+  "NUTS-3" : "DEG0L"
+},
+{
+  "Region" : "Groß-Gerau",
+  "KGS" : "06433",
+  "NUTS-3" : "DE717"
+},
+{
+  "Region" : "Günzburg",
+  "KGS" : "09774",
+  "NUTS-3" : "DE278"
+},
+{
+  "Region" : "Gütersloh",
+  "KGS" : "05754",
+  "NUTS-3" : "DEA42"
+},
+{
+  "Region" : "Hagen, Kreisfreie Stadt",
+  "KGS" : "05914",
+  "NUTS-3" : "DEA53"
+},
+{
+  "Region" : "Halle (Saale), Kreisfreie Stadt",
+  "KGS" : "15002",
+  "NUTS-3" : "DEE02"
+},
+{
+  "Region" : "Hamburg",
+  "KGS" : "02000",
+  "NUTS-3" : "DE600"
+},
+{
+  "Region" : "Hameln-Pyrmont",
+  "KGS" : "03252",
+  "NUTS-3" : "DE923"
+},
+{
+  "Region" : "Hamm, Kreisfreie Stadt",
+  "KGS" : "05915",
+  "NUTS-3" : "DEA54"
+},
+{
+  "Region" : "Harburg",
+  "KGS" : "03353",
+  "NUTS-3" : "DE933"
+},
+{
+  "Region" : "Harz",
+  "KGS" : "15085",
+  "NUTS-3" : "DEE09"
+},
+{
+  "Region" : "Haßberge",
+  "KGS" : "09674",
+  "NUTS-3" : "DE267"
+},
+{
+  "Region" : "Havelland",
+  "KGS" : "12063",
+  "NUTS-3" : "DE408"
+},
+{
+  "Region" : "Heidekreis",
+  "KGS" : "03358",
+  "NUTS-3" : "DE938"
+},
+{
+  "Region" : "Heidelberg, Stadtkreis",
+  "KGS" : "08221",
+  "NUTS-3" : "DE125"
+},
+{
+  "Region" : "Heidenheim",
+  "KGS" : "08135",
+  "NUTS-3" : "DE11C"
+},
+{
+  "Region" : "Heilbronn, Landkreis",
+  "KGS" : "08121",
+  "NUTS-3" : "DE118"
+},
+{
+  "Region" : "Heilbronn, Stadtkreis",
+  "KGS" : "08125",
+  "NUTS-3" : "DE117"
+},
+{
+  "Region" : "Heinsberg",
+  "KGS" : "05370",
+  "NUTS-3" : "DEA29"
+},
+{
+  "Region" : "Helmstedt",
+  "KGS" : "03154",
+  "NUTS-3" : "DE917"
+},
+{
+  "Region" : "Herford",
+  "KGS" : "05758",
+  "NUTS-3" : "DEA43"
+},
+{
+  "Region" : "Herne, Kreisfreie Stadt",
+  "KGS" : "05916",
+  "NUTS-3" : "DEA55"
+},
+{
+  "Region" : "Hersfeld-Rotenburg",
+  "KGS" : "06632",
+  "NUTS-3" : "DE733"
+},
+{
+  "Region" : "Herzogtum Lauenburg",
+  "KGS" : "01053",
+  "NUTS-3" : "DEF06"
+},
+{
+  "Region" : "Hildburghausen",
+  "KGS" : "16069",
+  "NUTS-3" : "DEG0E"
+},
+{
+  "Region" : "Hildesheim",
+  "KGS" : "03254",
+  "NUTS-3" : "DE925"
+},
+{
+  "Region" : "Hochsauerlandkreis",
+  "KGS" : "05958",
+  "NUTS-3" : "DEA57"
+},
+{
+  "Region" : "Hochtaunuskreis",
+  "KGS" : "06434",
+  "NUTS-3" : "DE718"
+},
+{
+  "Region" : "Hof, Kreisfreie Stadt",
+  "KGS" : "09464",
+  "NUTS-3" : "DE244"
+},
+{
+  "Region" : "Hof, Landkreis",
+  "KGS" : "09475",
+  "NUTS-3" : "DE249"
+},
+{
+  "Region" : "Hohenlohekreis",
+  "KGS" : "08126",
+  "NUTS-3" : "DE119"
+},
+{
+  "Region" : "Holzminden",
+  "KGS" : "03255",
+  "NUTS-3" : "DE926"
+},
+{
+  "Region" : "Höxter",
+  "KGS" : "05762",
+  "NUTS-3" : "DEA44"
+},
+{
+  "Region" : "Ilm-Kreis",
+  "KGS" : "16070",
+  "NUTS-3" : "DEG0F"
+},
+{
+  "Region" : "Ingolstadt, Kreisfreie Stadt",
+  "KGS" : "09161",
+  "NUTS-3" : "DE211"
+},
+{
+  "Region" : "Jena, Kreisfreie Stadt",
+  "KGS" : "16053",
+  "NUTS-3" : "DEG03"
+},
+{
+  "Region" : "Jerichower Land",
+  "KGS" : "15086",
+  "NUTS-3" : "DEE06"
+},
+{
+  "Region" : "Kaiserslautern, Kreisfreie Stadt",
+  "KGS" : "07312",
+  "NUTS-3" : "DEB32"
+},
+{
+  "Region" : "Kaiserslautern, Landkreis",
+  "KGS" : "07335",
+  "NUTS-3" : "DEB3F"
+},
+{
+  "Region" : "Karlsruhe, Landkreis",
+  "KGS" : "08212",
+  "NUTS-3" : "DE123"
+},
+{
+  "Region" : "Karlsruhe, Stadtkreis",
+  "KGS" : "08215",
+  "NUTS-3" : "DE122"
+},
+{
+  "Region" : "Kassel, Kreisfreie Stadt",
+  "KGS" : "06611",
+  "NUTS-3" : "DE731"
+},
+{
+  "Region" : "Kassel, Landkreis",
+  "KGS" : "06633",
+  "NUTS-3" : "DE734"
+},
+{
+  "Region" : "Kaufbeuren, Kreisfreie Stadt",
+  "KGS" : "09762",
+  "NUTS-3" : "DE272"
+},
+{
+  "Region" : "Kelheim",
+  "KGS" : "09273",
+  "NUTS-3" : "DE226"
+},
+{
+  "Region" : "Kempten (Allgäu), Kreisfreie Stadt",
+  "KGS" : "09763",
+  "NUTS-3" : "DE273"
+},
+{
+  "Region" : "Kiel, Kreisfreie Stadt",
+  "KGS" : "01002",
+  "NUTS-3" : "DEF02"
+},
+{
+  "Region" : "Kitzingen",
+  "KGS" : "09675",
+  "NUTS-3" : "DE268"
+},
+{
+  "Region" : "Kleve",
+  "KGS" : "05154",
+  "NUTS-3" : "DEA1B"
+},
+{
+  "Region" : "Koblenz, Kreisfreie Stadt",
+  "KGS" : "07111",
+  "NUTS-3" : "DEB11"
+},
+{
+  "Region" : "Köln, Kreisfreie Stadt",
+  "KGS" : "05315",
+  "NUTS-3" : "DEA23"
+},
+{
+  "Region" : "Konstanz",
+  "KGS" : "08335",
+  "NUTS-3" : "DE138"
+},
+{
+  "Region" : "Krefeld, Kreisfreie Stadt",
+  "KGS" : "05114",
+  "NUTS-3" : "DEA14"
+},
+{
+  "Region" : "Kronach",
+  "KGS" : "09476",
+  "NUTS-3" : "DE24A"
+},
+{
+  "Region" : "Kulmbach",
+  "KGS" : "09477",
+  "NUTS-3" : "DE24B"
+},
+{
+  "Region" : "Kusel",
+  "KGS" : "07336",
+  "NUTS-3" : "DEB3G"
+},
+{
+  "Region" : "Kyffhäuserkreis",
+  "KGS" : "16065",
+  "NUTS-3" : "DEG0A"
+},
+{
+  "Region" : "Lahn-Dill-Kreis",
+  "KGS" : "06532",
+  "NUTS-3" : "DE722"
+},
+{
+  "Region" : "Landau in der Pfalz, Kreisfreie Stadt",
+  "KGS" : "07313",
+  "NUTS-3" : "DEB33"
+},
+{
+  "Region" : "Landsberg am Lech",
+  "KGS" : "09181",
+  "NUTS-3" : "DE21E"
+},
+{
+  "Region" : "Landshut, Kreisfreie Stadt",
+  "KGS" : "09261",
+  "NUTS-3" : "DE221"
+},
+{
+  "Region" : "Landshut, Landkreis",
+  "KGS" : "09274",
+  "NUTS-3" : "DE227"
+},
+{
+  "Region" : "Leer",
+  "KGS" : "03457",
+  "NUTS-3" : "DE94C"
+},
+{
+  "Region" : "Leipzig",
+  "KGS" : "14713",
+  "NUTS-3" : "DED52"
+},
+{
+  "Region" : "Leipzig, Kreisfreie Stadt",
+  "KGS" : "14729",
+  "NUTS-3" : "DED51"
+},
+{
+  "Region" : "Leverkusen, Kreisfreie Stadt",
+  "KGS" : "05316",
+  "NUTS-3" : "DEA24"
+},
+{
+  "Region" : "Lichtenfels",
+  "KGS" : "09478",
+  "NUTS-3" : "DE24C"
+},
+{
+  "Region" : "Limburg-Weilburg",
+  "KGS" : "06533",
+  "NUTS-3" : "DE723"
+},
+{
+  "Region" : "Lindau (Bodensee)",
+  "KGS" : "09776",
+  "NUTS-3" : "DE27A"
+},
+{
+  "Region" : "Lippe",
+  "KGS" : "05766",
+  "NUTS-3" : "DEA45"
+},
+{
+  "Region" : "Lörrach",
+  "KGS" : "08336",
+  "NUTS-3" : "DE139"
+},
+{
+  "Region" : "Lübeck, Kreisfreie Stadt",
+  "KGS" : "01003",
+  "NUTS-3" : "DEF03"
+},
+{
+  "Region" : "Lüchow-Dannenberg",
+  "KGS" : "03354",
+  "NUTS-3" : "DE934"
+},
+{
+  "Region" : "Ludwigsburg",
+  "KGS" : "08118",
+  "NUTS-3" : "DE115"
+},
+{
+  "Region" : "Ludwigshafen am Rhein, Kreisfreie Stadt",
+  "KGS" : "07314",
+  "NUTS-3" : "DEB34"
+},
+{
+  "Region" : "Ludwigslust-Parchim",
+  "KGS" : "13076",
+  "NUTS-3" : "DE80O"
+},
+{
+  "Region" : "Lüneburg, Landkreis",
+  "KGS" : "03355",
+  "NUTS-3" : "DE935"
+},
+{
+  "Region" : "Magdeburg, Kreisfreie Stadt",
+  "KGS" : "15003",
+  "NUTS-3" : "DEE03"
+},
+{
+  "Region" : "Main-Kinzig-Kreis",
+  "KGS" : "06435",
+  "NUTS-3" : "DE719"
+},
+{
+  "Region" : "Main-Spessart",
+  "KGS" : "09677",
+  "NUTS-3" : "DE26A"
+},
+{
+  "Region" : "Main-Tauber-Kreis",
+  "KGS" : "08128",
+  "NUTS-3" : "DE11B"
+},
+{
+  "Region" : "Main-Taunus-Kreis",
+  "KGS" : "06436",
+  "NUTS-3" : "DE71A"
+},
+{
+  "Region" : "Mainz-Bingen",
+  "KGS" : "07315",
+  "NUTS-3" : "DEB3J"
+},
+{
+  "Region" : "Mainz, Kreisfreie Stadt",
+  "KGS" : "07339",
+  "NUTS-3" : "DEB35"
+},
+{
+  "Region" : "Mannheim, Stadtkreis",
+  "KGS" : "08222",
+  "NUTS-3" : "DE126"
+},
+{
+  "Region" : "Mansfeld-Südharz",
+  "KGS" : "15087",
+  "NUTS-3" : "DEE0A"
+},
+{
+  "Region" : "Marburg-Biedenkopf",
+  "KGS" : "06534",
+  "NUTS-3" : "DE724"
+},
+{
+  "Region" : "Märkisch-Oderland",
+  "KGS" : "05962",
+  "NUTS-3" : "DE409"
+},
+{
+  "Region" : "Märkischer Kreis",
+  "KGS" : "12064",
+  "NUTS-3" : "DEA58"
+},
+{
+  "Region" : "Mayen-Koblenz",
+  "KGS" : "07137",
+  "NUTS-3" : "DEB17"
+},
+{
+  "Region" : "Mecklenburgische Seenplatte",
+  "KGS" : "13071",
+  "NUTS-3" : "DE80J"
+},
+{
+  "Region" : "Meißen",
+  "KGS" : "14627",
+  "NUTS-3" : "DED2E"
+},
+{
+  "Region" : "Memmingen, Kreisfreie Stadt",
+  "KGS" : "09764",
+  "NUTS-3" : "DE274"
+},
+{
+  "Region" : "Merzig-Wadern",
+  "KGS" : "10042",
+  "NUTS-3" : "DEC02"
+},
+{
+  "Region" : "Mettmann",
+  "KGS" : "05158",
+  "NUTS-3" : "DEA1C"
+},
+{
+  "Region" : "Miesbach",
+  "KGS" : "09182",
+  "NUTS-3" : "DE21F"
+},
+{
+  "Region" : "Miltenberg",
+  "KGS" : "09676",
+  "NUTS-3" : "DE269"
+},
+{
+  "Region" : "Minden-Lübbecke",
+  "KGS" : "05770",
+  "NUTS-3" : "DEA46"
+},
+{
+  "Region" : "Mittelsachsen",
+  "KGS" : "14522",
+  "NUTS-3" : "DED43"
+},
+{
+  "Region" : "Mönchengladbach, Kreisfreie Stadt",
+  "KGS" : "05116",
+  "NUTS-3" : "DEA15"
+},
+{
+  "Region" : "Mühldorf a. Inn",
+  "KGS" : "09183",
+  "NUTS-3" : "DE21G"
+},
+{
+  "Region" : "Mülheim an der Ruhr, Kreisfreie Stadt",
+  "KGS" : "05117",
+  "NUTS-3" : "DEA16"
+},
+{
+  "Region" : "München, Kreisfreie Stadt",
+  "KGS" : "09162",
+  "NUTS-3" : "DE212"
+},
+{
+  "Region" : "München, Landkreis",
+  "KGS" : "09184",
+  "NUTS-3" : "DE21H"
+},
+{
+  "Region" : "Münster, Kreisfreie Stadt",
+  "KGS" : "05515",
+  "NUTS-3" : "DEA33"
+},
+{
+  "Region" : "Neckar-Odenwald-Kreis",
+  "KGS" : "08225",
+  "NUTS-3" : "DE127"
+},
+{
+  "Region" : "Neu-Ulm",
+  "KGS" : "09185",
+  "NUTS-3" : "DE279"
+},
+{
+  "Region" : "Neuburg-Schrobenhausen",
+  "KGS" : "09373",
+  "NUTS-3" : "DE21I"
+},
+{
+  "Region" : "Neumarkt i. d. OPf.",
+  "KGS" : "01004",
+  "NUTS-3" : "DE236"
+},
+{
+  "Region" : "Neumünster, Kreisfreie Stadt",
+  "KGS" : "10043",
+  "NUTS-3" : "DEF04"
+},
+{
+  "Region" : "Neunkirchen",
+  "KGS" : "09575",
+  "NUTS-3" : "DEC03"
+},
+{
+  "Region" : "Neustadt a. d. Aisch-Bad Windsheim",
+  "KGS" : "09374",
+  "NUTS-3" : "DE25A"
+},
+{
+  "Region" : "Neustadt a. d. Waldnaab",
+  "KGS" : "07316",
+  "NUTS-3" : "DE237"
+},
+{
+  "Region" : "Neustadt an der Weinstraße, Kreisfreie Stadt",
+  "KGS" : "09775",
+  "NUTS-3" : "DEB36"
+},
+{
+  "Region" : "Neuwied",
+  "KGS" : "07138",
+  "NUTS-3" : "DEB18"
+},
+{
+  "Region" : "Nienburg (Weser)",
+  "KGS" : "03256",
+  "NUTS-3" : "DE927"
+},
+{
+  "Region" : "Nordfriesland",
+  "KGS" : "01054",
+  "NUTS-3" : "DEF07"
+},
+{
+  "Region" : "Nordhausen",
+  "KGS" : "16062",
+  "NUTS-3" : "DEG07"
+},
+{
+  "Region" : "Nordsachsen",
+  "KGS" : "14730",
+  "NUTS-3" : "DED53"
+},
+{
+  "Region" : "Nordwestmecklenburg",
+  "KGS" : "13074",
+  "NUTS-3" : "DE80M"
+},
+{
+  "Region" : "Northeim",
+  "KGS" : "03155",
+  "NUTS-3" : "DE918"
+},
+{
+  "Region" : "Nürnberg, Kreisfreie Stadt",
+  "KGS" : "09564",
+  "NUTS-3" : "DE254"
+},
+{
+  "Region" : "Nürnberger Land",
+  "KGS" : "09574",
+  "NUTS-3" : "DE259"
+},
+{
+  "Region" : "Oberallgäu",
+  "KGS" : "09780",
+  "NUTS-3" : "DE27E"
+},
+{
+  "Region" : "Oberbergischer Kreis",
+  "KGS" : "05374",
+  "NUTS-3" : "DEA2A"
+},
+{
+  "Region" : "Oberhausen, Kreisfreie Stadt",
+  "KGS" : "05119",
+  "NUTS-3" : "DEA17"
+},
+{
+  "Region" : "Oberhavel",
+  "KGS" : "12065",
+  "NUTS-3" : "DE40A"
+},
+{
+  "Region" : "Oberspreewald-Lausitz",
+  "KGS" : "12066",
+  "NUTS-3" : "DE40B"
+},
+{
+  "Region" : "Odenwaldkreis",
+  "KGS" : "06437",
+  "NUTS-3" : "DE71B"
+},
+{
+  "Region" : "Oder-Spree",
+  "KGS" : "12067",
+  "NUTS-3" : "DE40C"
+},
+{
+  "Region" : "Offenbach am Main, Kreisfreie Stadt",
+  "KGS" : "06438",
+  "NUTS-3" : "DE713"
+},
+{
+  "Region" : "Offenbach, Landkreis",
+  "KGS" : "06413",
+  "NUTS-3" : "DE71C"
+},
+{
+  "Region" : "Oldenburg (Oldenburg), Kreisfreie Stadt",
+  "KGS" : "03458",
+  "NUTS-3" : "DE943"
+},
+{
+  "Region" : "Oldenburg, Landkreis",
+  "KGS" : "03403",
+  "NUTS-3" : "DE94D"
+},
+{
+  "Region" : "Olpe",
+  "KGS" : "05966",
+  "NUTS-3" : "DEA59"
+},
+{
+  "Region" : "Ortenaukreis",
+  "KGS" : "08317",
+  "NUTS-3" : "DE134"
+},
+{
+  "Region" : "Osnabrück, Kreisfreie Stadt",
+  "KGS" : "03404",
+  "NUTS-3" : "DE944"
+},
+{
+  "Region" : "Osnabrück, Landkreis",
+  "KGS" : "03459",
+  "NUTS-3" : "DE94E"
+},
+{
+  "Region" : "Ostalbkreis",
+  "KGS" : "08136",
+  "NUTS-3" : "DE11D"
+},
+{
+  "Region" : "Ostallgäu",
+  "KGS" : "09777",
+  "NUTS-3" : "DE27B"
+},
+{
+  "Region" : "Osterholz",
+  "KGS" : "03356",
+  "NUTS-3" : "DE936"
+},
+{
+  "Region" : "Ostholstein",
+  "KGS" : "01055",
+  "NUTS-3" : "DEF08"
+},
+{
+  "Region" : "Ostprignitz-Ruppin",
+  "KGS" : "12068",
+  "NUTS-3" : "DE40D"
+},
+{
+  "Region" : "Paderborn",
+  "KGS" : "05774",
+  "NUTS-3" : "DEA47"
+},
+{
+  "Region" : "Passau, Kreisfreie Stadt",
+  "KGS" : "09262",
+  "NUTS-3" : "DE222"
+},
+{
+  "Region" : "Passau, Landkreis",
+  "KGS" : "09275",
+  "NUTS-3" : "DE228"
+},
+{
+  "Region" : "Peine",
+  "KGS" : "03157",
+  "NUTS-3" : "DE91A"
+},
+{
+  "Region" : "Pfaffenhofen a. d. Ilm",
+  "KGS" : "09186",
+  "NUTS-3" : "DE21J"
+},
+{
+  "Region" : "Pforzheim, Stadtkreis",
+  "KGS" : "08231",
+  "NUTS-3" : "DE129"
+},
+{
+  "Region" : "Pinneberg",
+  "KGS" : "01056",
+  "NUTS-3" : "DEF09"
+},
+{
+  "Region" : "Pirmasens, Kreisfreie Stadt",
+  "KGS" : "07317",
+  "NUTS-3" : "DEB37"
+},
+{
+  "Region" : "Plön",
+  "KGS" : "01057",
+  "NUTS-3" : "DEF0A"
+},
+{
+  "Region" : "Potsdam-Mittelmark",
+  "KGS" : "12054",
+  "NUTS-3" : "DE40E"
+},
+{
+  "Region" : "Potsdam, Kreisfreie Stadt",
+  "KGS" : "12069",
+  "NUTS-3" : "DE404"
+},
+{
+  "Region" : "Prignitz",
+  "KGS" : "12070",
+  "NUTS-3" : "DE40F"
+},
+{
+  "Region" : "Rastatt",
+  "KGS" : "08216",
+  "NUTS-3" : "DE124"
+},
+{
+  "Region" : "Ravensburg",
+  "KGS" : "08436",
+  "NUTS-3" : "DE148"
+},
+{
+  "Region" : "Recklinghausen",
+  "KGS" : "05562",
+  "NUTS-3" : "DEA36"
+},
+{
+  "Region" : "Regen",
+  "KGS" : "09276",
+  "NUTS-3" : "DE229"
+},
+{
+  "Region" : "Regensburg, Kreisfreie Stadt",
+  "KGS" : "09362",
+  "NUTS-3" : "DE232"
+},
+{
+  "Region" : "Regensburg, Landkreis",
+  "KGS" : "09375",
+  "NUTS-3" : "DE238"
+},
+{
+  "Region" : "Region Hannover",
+  "KGS" : "03241",
+  "NUTS-3" : "DE929"
+},
+{
+  "Region" : "Regionalverband Saarbrücken",
+  "KGS" : "10041",
+  "NUTS-3" : "DEC01"
+},
+{
+  "Region" : "Rems-Murr-Kreis",
+  "KGS" : "05120",
+  "NUTS-3" : "DE116"
+},
+{
+  "Region" : "Remscheid, Kreisfreie Stadt",
+  "KGS" : "08119",
+  "NUTS-3" : "DEA18"
+},
+{
+  "Region" : "Rendsburg-Eckernförde",
+  "KGS" : "01058",
+  "NUTS-3" : "DEF0B"
+},
+{
+  "Region" : "Reutlingen",
+  "KGS" : "08415",
+  "NUTS-3" : "DE141"
+},
+{
+  "Region" : "Rhein-Erft-Kreis",
+  "KGS" : "05362",
+  "NUTS-3" : "DEA27"
+},
+{
+  "Region" : "Rhein-Hunsrück-Kreis",
+  "KGS" : "06439",
+  "NUTS-3" : "DEB1D"
+},
+{
+  "Region" : "Rhein-Kreis Neuss",
+  "KGS" : "07140",
+  "NUTS-3" : "DEA1D"
+},
+{
+  "Region" : "Rhein-Lahn-Kreis",
+  "KGS" : "05378",
+  "NUTS-3" : "DEB1A"
+},
+{
+  "Region" : "Rhein-Neckar-Kreis",
+  "KGS" : "05162",
+  "NUTS-3" : "DE128"
+},
+{
+  "Region" : "Rhein-Pfalz-Kreis",
+  "KGS" : "07141",
+  "NUTS-3" : "DEB3I"
+},
+{
+  "Region" : "Rhein-Sieg-Kreis",
+  "KGS" : "08226",
+  "NUTS-3" : "DEA2C"
+},
+{
+  "Region" : "Rheingau-Taunus-Kreis",
+  "KGS" : "07338",
+  "NUTS-3" : "DE71D"
+},
+{
+  "Region" : "Rheinisch-Bergischer Kreis",
+  "KGS" : "05382",
+  "NUTS-3" : "DEA2B"
+},
+{
+  "Region" : "Rhön-Grabfeld",
+  "KGS" : "09673",
+  "NUTS-3" : "DE266"
+},
+{
+  "Region" : "Rosenheim, Kreisfreie Stadt",
+  "KGS" : "09163",
+  "NUTS-3" : "DE213"
+},
+{
+  "Region" : "Rosenheim, Landkreis",
+  "KGS" : "09187",
+  "NUTS-3" : "DE21K"
+},
+{
+  "Region" : "Rostock, Kreisfreie Stadt",
+  "KGS" : "13003",
+  "NUTS-3" : "DE803"
+},
+{
+  "Region" : "Rostock, Landkreis",
+  "KGS" : "13072",
+  "NUTS-3" : "DE80K"
+},
+{
+  "Region" : "Rotenburg (Wümme)",
+  "KGS" : "03357",
+  "NUTS-3" : "DE937"
+},
+{
+  "Region" : "Roth",
+  "KGS" : "09576",
+  "NUTS-3" : "DE25B"
+},
+{
+  "Region" : "Rottal-Inn",
+  "KGS" : "09277",
+  "NUTS-3" : "DE22A"
+},
+{
+  "Region" : "Rottweil",
+  "KGS" : "08325",
+  "NUTS-3" : "DE135"
+},
+{
+  "Region" : "Saale-Holzland-Kreis",
+  "KGS" : "16074",
+  "NUTS-3" : "DEG0J"
+},
+{
+  "Region" : "Saale-Orla-Kreis",
+  "KGS" : "15088",
+  "NUTS-3" : "DEG0K"
+},
+{
+  "Region" : "Saalekreis",
+  "KGS" : "16075",
+  "NUTS-3" : "DEE0B"
+},
+{
+  "Region" : "Saalfeld-Rudolstadt",
+  "KGS" : "16073",
+  "NUTS-3" : "DEG0I"
+},
+{
+  "Region" : "Saarlouis",
+  "KGS" : "10044",
+  "NUTS-3" : "DEC04"
+},
+{
+  "Region" : "Saarpfalz-Kreis",
+  "KGS" : "10045",
+  "NUTS-3" : "DEC05"
+},
+{
+  "Region" : "Sächsische Schweiz-Osterzgebirge",
+  "KGS" : "14628",
+  "NUTS-3" : "DED2F"
+},
+{
+  "Region" : "Salzgitter, Kreisfreie Stadt",
+  "KGS" : "03102",
+  "NUTS-3" : "DE912"
+},
+{
+  "Region" : "Salzlandkreis",
+  "KGS" : "15089",
+  "NUTS-3" : "DEE0C"
+},
+{
+  "Region" : "Schaumburg",
+  "KGS" : "03257",
+  "NUTS-3" : "DE928"
+},
+{
+  "Region" : "Schleswig-Flensburg",
+  "KGS" : "01059",
+  "NUTS-3" : "DEF0C"
+},
+{
+  "Region" : "Schmalkalden-Meiningen",
+  "KGS" : "16066",
+  "NUTS-3" : "DEG0B"
+},
+{
+  "Region" : "Schwabach, Kreisfreie Stadt",
+  "KGS" : "09565",
+  "NUTS-3" : "DE255"
+},
+{
+  "Region" : "Schwäbisch Hall",
+  "KGS" : "08127",
+  "NUTS-3" : "DE11A"
+},
+{
+  "Region" : "Schwalm-Eder-Kreis",
+  "KGS" : "06634",
+  "NUTS-3" : "DE735"
+},
+{
+  "Region" : "Schwandorf",
+  "KGS" : "09376",
+  "NUTS-3" : "DE239"
+},
+{
+  "Region" : "Schwarzwald-Baar-Kreis",
+  "KGS" : "08326",
+  "NUTS-3" : "DE136"
+},
+{
+  "Region" : "Schweinfurt, Kreisfreie Stadt",
+  "KGS" : "09662",
+  "NUTS-3" : "DE262"
+},
+{
+  "Region" : "Schweinfurt, Landkreis",
+  "KGS" : "09678",
+  "NUTS-3" : "DE26B"
+},
+{
+  "Region" : "Schwerin, Kreisfreie Stadt",
+  "KGS" : "13004",
+  "NUTS-3" : "DE804"
+},
+{
+  "Region" : "Segeberg",
+  "KGS" : "01060",
+  "NUTS-3" : "DEF0D"
+},
+{
+  "Region" : "Siegen-Wittgenstein",
+  "KGS" : "05970",
+  "NUTS-3" : "DEA5A"
+},
+{
+  "Region" : "Sigmaringen",
+  "KGS" : "08437",
+  "NUTS-3" : "DE149"
+},
+{
+  "Region" : "Soest",
+  "KGS" : "05974",
+  "NUTS-3" : "DEA5B"
+},
+{
+  "Region" : "Solingen, Kreisfreie Stadt",
+  "KGS" : "05122",
+  "NUTS-3" : "DEA19"
+},
+{
+  "Region" : "Sömmerda",
+  "KGS" : "16068",
+  "NUTS-3" : "DEG0D"
+},
+{
+  "Region" : "Sonneberg",
+  "KGS" : "16072",
+  "NUTS-3" : "DEG0H"
+},
+{
+  "Region" : "Speyer, Kreisfreie Stadt",
+  "KGS" : "07318",
+  "NUTS-3" : "DEB38"
+},
+{
+  "Region" : "Spree-Neiße",
+  "KGS" : "12071",
+  "NUTS-3" : "DE40G"
+},
+{
+  "Region" : "St. Wendel",
+  "KGS" : "10046",
+  "NUTS-3" : "DEC06"
+},
+{
+  "Region" : "Stade",
+  "KGS" : "03359",
+  "NUTS-3" : "DE939"
+},
+{
+  "Region" : "Städteregion Aachen",
+  "KGS" : "05334",
+  "NUTS-3" : "DEA2D"
+},
+{
+  "Region" : "Starnberg",
+  "KGS" : "09188",
+  "NUTS-3" : "DE21L"
+},
+{
+  "Region" : "Steinburg",
+  "KGS" : "01061",
+  "NUTS-3" : "DEF0E"
+},
+{
+  "Region" : "Steinfurt",
+  "KGS" : "05566",
+  "NUTS-3" : "DEA37"
+},
+{
+  "Region" : "Stendal",
+  "KGS" : "15090",
+  "NUTS-3" : "DEE0D"
+},
+{
+  "Region" : "Stormarn",
+  "KGS" : "01062",
+  "NUTS-3" : "DEF0F"
+},
+{
+  "Region" : "Straubing-Bogen",
+  "KGS" : "09263",
+  "NUTS-3" : "DE22B"
+},
+{
+  "Region" : "Straubing, Kreisfreie Stadt",
+  "KGS" : "09278",
+  "NUTS-3" : "DE223"
+},
+{
+  "Region" : "Stuttgart, Stadtkreis",
+  "KGS" : "08111",
+  "NUTS-3" : "DE111"
+},
+{
+  "Region" : "Südliche Weinstraße",
+  "KGS" : "07337",
+  "NUTS-3" : "DEB3H"
+},
+{
+  "Region" : "Südwestpfalz",
+  "KGS" : "07340",
+  "NUTS-3" : "DEB3K"
+},
+{
+  "Region" : "Suhl, Kreisfreie Stadt",
+  "KGS" : "16054",
+  "NUTS-3" : "DEG04"
+},
+{
+  "Region" : "Teltow-Fläming",
+  "KGS" : "12072",
+  "NUTS-3" : "DE40H"
+},
+{
+  "Region" : "Tirschenreuth",
+  "KGS" : "09377",
+  "NUTS-3" : "DE23A"
+},
+{
+  "Region" : "Traunstein",
+  "KGS" : "09189",
+  "NUTS-3" : "DE21M"
+},
+{
+  "Region" : "Trier-Saarburg",
+  "KGS" : "07211",
+  "NUTS-3" : "DEB25"
+},
+{
+  "Region" : "Trier, Kreisfreie Stadt",
+  "KGS" : "07235",
+  "NUTS-3" : "DEB21"
+},
+{
+  "Region" : "Tübingen, Landkreis",
+  "KGS" : "08416",
+  "NUTS-3" : "DE142"
+},
+{
+  "Region" : "Tuttlingen",
+  "KGS" : "08327",
+  "NUTS-3" : "DE137"
+},
+{
+  "Region" : "Uckermark",
+  "KGS" : "12073",
+  "NUTS-3" : "DE40I"
+},
+{
+  "Region" : "Uelzen",
+  "KGS" : "03360",
+  "NUTS-3" : "DE93A"
+},
+{
+  "Region" : "Ulm, Stadtkreis",
+  "KGS" : "08421",
+  "NUTS-3" : "DE144"
+},
+{
+  "Region" : "Unna",
+  "KGS" : "05978",
+  "NUTS-3" : "DEA5C"
+},
+{
+  "Region" : "Unstrut-Hainich-Kreis",
+  "KGS" : "16064",
+  "NUTS-3" : "DEG09"
+},
+{
+  "Region" : "Unterallgäu",
+  "KGS" : "09778",
+  "NUTS-3" : "DE27C"
+},
+{
+  "Region" : "Vechta",
+  "KGS" : "03460",
+  "NUTS-3" : "DE94F"
+},
+{
+  "Region" : "Verden",
+  "KGS" : "03361",
+  "NUTS-3" : "DE93B"
+},
+{
+  "Region" : "Viersen",
+  "KGS" : "05166",
+  "NUTS-3" : "DEA1E"
+},
+{
+  "Region" : "Vogelsbergkreis",
+  "KGS" : "06535",
+  "NUTS-3" : "DE725"
+},
+{
+  "Region" : "Vogtlandkreis",
+  "KGS" : "14523",
+  "NUTS-3" : "DED44"
+},
+{
+  "Region" : "Vorpommern-Greifswald",
+  "KGS" : "13075",
+  "NUTS-3" : "DE80N"
+},
+{
+  "Region" : "Vorpommern-Rügen",
+  "KGS" : "13073",
+  "NUTS-3" : "DE80L"
+},
+{
+  "Region" : "Vulkaneifel",
+  "KGS" : "07233",
+  "NUTS-3" : "DEB24"
+},
+{
+  "Region" : "Waldeck-Frankenberg",
+  "KGS" : "06635",
+  "NUTS-3" : "DE736"
+},
+{
+  "Region" : "Waldshut",
+  "KGS" : "08337",
+  "NUTS-3" : "DE13A"
+},
+{
+  "Region" : "Warendorf",
+  "KGS" : "05570",
+  "NUTS-3" : "DEA38"
+},
+{
+  "Region" : "Wartburgkreis",
+  "KGS" : "16063",
+  "NUTS-3" : "DEG0P"
+},
+{
+  "Region" : "Weiden i. d. Opf, Kreisfreie Stadt",
+  "KGS" : "09363",
+  "NUTS-3" : "DE233"
+},
+{
+  "Region" : "Weilheim-Schongau",
+  "KGS" : "09190",
+  "NUTS-3" : "DE21N"
+},
+{
+  "Region" : "Weimar, Kreisfreie Stadt",
+  "KGS" : "16055",
+  "NUTS-3" : "DEG05"
+},
+{
+  "Region" : "Weimarer Land",
+  "KGS" : "16071",
+  "NUTS-3" : "DEG0G"
+},
+{
+  "Region" : "Weißenburg-Gunzenhausen",
+  "KGS" : "09577",
+  "NUTS-3" : "DE25C"
+},
+{
+  "Region" : "Werra-Meißner-Kreis",
+  "KGS" : "06636",
+  "NUTS-3" : "DE737"
+},
+{
+  "Region" : "Wesel",
+  "KGS" : "05170",
+  "NUTS-3" : "DEA1F"
+},
+{
+  "Region" : "Wesermarsch",
+  "KGS" : "03461",
+  "NUTS-3" : "DE94G"
+},
+{
+  "Region" : "Westerwaldkreis",
+  "KGS" : "07143",
+  "NUTS-3" : "DEB1B"
+},
+{
+  "Region" : "Wetteraukreis",
+  "KGS" : "06440",
+  "NUTS-3" : "DE71E"
+},
+{
+  "Region" : "Wiesbaden, Kreisfreie Stadt",
+  "KGS" : "06414",
+  "NUTS-3" : "DE714"
+},
+{
+  "Region" : "Wilhelmshaven, Kreisfreie Stadt",
+  "KGS" : "03405",
+  "NUTS-3" : "DE945"
+},
+{
+  "Region" : "Wittenberg",
+  "KGS" : "15091",
+  "NUTS-3" : "DEE0E"
+},
+{
+  "Region" : "Wittmund",
+  "KGS" : "03462",
+  "NUTS-3" : "DE94H"
+},
+{
+  "Region" : "Wolfenbüttel",
+  "KGS" : "03158",
+  "NUTS-3" : "DE91B"
+},
+{
+  "Region" : "Wolfsburg, Kreisfreie Stadt",
+  "KGS" : "03103",
+  "NUTS-3" : "DE913"
+},
+{
+  "Region" : "Worms, Kreisfreie Stadt",
+  "KGS" : "07319",
+  "NUTS-3" : "DEB39"
+},
+{
+  "Region" : "Wunsiedel i. Fichtelgebirge",
+  "KGS" : "09479",
+  "NUTS-3" : "DE24D"
+},
+{
+  "Region" : "Wuppertal, Kreisfreie Stadt",
+  "KGS" : "05124",
+  "NUTS-3" : "DEA1A"
+},
+{
+  "Region" : "Würzburg, Kreisfreie Stadt",
+  "KGS" : "09663",
+  "NUTS-3" : "DE263"
+},
+{
+  "Region" : "Würzburg, Landkreis",
+  "KGS" : "09679",
+  "NUTS-3" : "DE26C"
+},
+{
+  "Region" : "Zollernalbkreis",
+  "KGS" : "08417",
+  "NUTS-3" : "DE143"
+},
+{
+  "Region" : "Zweibrücken, Kreisfreie Stadt",
+  "KGS" : "07320",
+  "NUTS-3" : "DEB3A"
+},
+{
+  "Region" : "Zwickau",
+  "KGS" : "14524",
+  "NUTS-3" : "DED45"
+}]}
